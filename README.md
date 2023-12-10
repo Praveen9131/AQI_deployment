@@ -23,7 +23,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Air_Quality_Indexer.git
+   git clone https://github.com/Praveen9131/Air_Quality_Indexer.git
    cd Air_Quality_Indexer
 
    pip install -r requirements.txt
@@ -34,8 +34,8 @@
 
 # Run the application 
   
-    ```bash
-      python app.py
+      
+            python app.py
 
 # interface 
 
