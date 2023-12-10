@@ -1,9 +1,0 @@
-pandas 
-matplotlib
-beautifulsoup4
-lxml
-seaborn
-scikit-learn
-pydotplus
-graphviz
-xgboost
