@@ -29,7 +29,7 @@
    pip install -r requirements.txt
 
 
-## add your own data 
+## add your own data or use the data in my repository
 
 
 # Run the application 
@@ -38,8 +38,10 @@
             python app.py
 
 # interface 
+## Flak Interface with html 
 
-![Screenshot (52)](https://github.com/Praveen9131/AQI_deployment/assets/121826658/6eed94e1-2ec9-44b7-abe8-b28d24bd539e)
 
 
-   
+
+   ![Screenshot 2023-12-10 222445](https://github.com/Praveen9131/AQI_deployment/assets/121826658/05ace0af-e235-4e69-b6ac-f9d5e2297b94)
+
