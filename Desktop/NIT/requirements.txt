@@ -1,0 +1,8 @@
+pandas
+mne
+scikit-learn
+tensorflow
+xgboost
+seaborn
+plotly
+scipy
